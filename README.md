@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gustavo Vono</h1>
 <h3 align="center">A passionate fullstack web developer from Brazil</h3>
+<img align="right" alt="Coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2023/01/scala-programming-language-gif.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gutvono&label=Profile%20views&color=0e75b6&style=flat" alt="gutvono" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gutvono" alt="gutvono" /></a> </p>
 
 - 🌱 I’m currently deepening my knowledge in **Python, TypeScript and Front-End frameworks**
 
