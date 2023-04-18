@@ -215,3 +215,7 @@ align="right"
 src="https://github-readme-stats.vercel.app/api?username=gutvono&show_icons=true&locale=en"
 alt="gutvono"
 />
+
+---------
+
+All the projects you'll see here are still in development. Actually, to me, a project never really ends; there's always something to improve.
