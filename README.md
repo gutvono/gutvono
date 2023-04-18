@@ -7,9 +7,14 @@
 <br />
 
 <p align="center">
+    - 🏠 I'm 26 years old and I live in Jaú, a city located in the countryside
+    of São Paulo state, Brazil. <br />
+    - 🎓 I <strong>graduated in Physical Education</strong>, and yes,
+    I know it doesn't have much to do with programming and technology, but I
+    found myself interested in it and now <strong>I am seeking a job in this field</strong>. <br />
     - 🌱 I’m currently deepening my knowledge in
-    <strong>Python, TypeScript and Front-End frameworks</strong> <br />
-    - ⚡ I love football, games, music, coffee, cars and beer.
+    <strong>Python, TypeScript and Front-End frameworks</strong>. <br />
+    - ⚡ I love football, games, music, films, series, coffee, cars and beer.
 </p>
 
 <br />
