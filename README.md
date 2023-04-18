@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gustavo Vono</h1>
 <h3 align="center">A passionate fullstack web developer from Brazil</h3>
 
---------- - 🌱 I’m currently deepening my knowledge in **Python, TypeScript and
-Front-End frameworks** - 💬 Ask me about **React, JavaScript** - 📫 How to reach
-me **guvono4@gmail.com** - ⚡ Fun fact **I LOVE football, games, music, coffee
-and beer.** ---------
+<div align="center">
+    - 🌱 I’m currently deepening my knowledge in <strong>Python, TypeScript and Front-End frameworks</strong> <br>
+    - 💬 Ask me about <strong>React, JavaScript</strong> <br>
+    - 📫 How to reach me <strong>guvono4@gmail.com</strong> <br> 
+    - ⚡ Fun fact <strong>I love football, games, music, coffee, cars and beer.</strong> <br>
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -12,6 +14,14 @@ and beer.** ---------
         ><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="gustavo vono"
+            height="30"
+            width="40"
+    /></a>
+    <a href="mailto:guvono4@gmail.com" target="blank"
+        ><img
+            align="center"
+            src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"
             alt="gustavo vono"
             height="30"
             width="40"
@@ -194,40 +204,14 @@ and beer.** ---------
 
 ---------
 
-<div style="display: flex; justify-content: space-evenly">
-    <p>
-        <img
-            align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=gutvono&show_icons=true&locale=en&layout=compact"
-            alt="gutvono"
-        />
-    </p>
+<img
+align="left"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=gutvono&show_icons=true&locale=en&layout=compact"
+alt="gutvono"
+/>
 
-    <p>
-        &nbsp;<img
-            align="right"
-            src="https://github-readme-stats.vercel.app/api?username=gutvono&show_icons=true&locale=en"
-            alt="gutvono"
-        />
-    </p>
-</div>
-
----------
-
-<div style="display: flex; justify-content: space-evenly">
-    <a href="mailto:guvono4@gmail.com"
-        ><img
-            src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"
-            alt="Email"
-            data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
-            style="max-width: 100%"
-    /></a>
-
-    <a href="https://www.linkedin.com/in/crisna-bezerra/" rel="nofollow"
-        ><img
-            src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
-            alt="Linkedin"
-            data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
-            style="max-width: 100%"
-    /></a>
-</div>
+<img
+align="right"
+src="https://github-readme-stats.vercel.app/api?username=gutvono&show_icons=true&locale=en"
+alt="gutvono"
+/>
