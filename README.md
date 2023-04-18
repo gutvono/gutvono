@@ -2,11 +2,26 @@
 <h3 align="center">A passionate fullstack web developer from Brazil</h3>
 
 <div align="center">
-    - 🌱 I’m currently deepening my knowledge in <strong>Python, TypeScript and Front-End frameworks</strong> <br>
-    - 💬 Ask me about <strong>React, JavaScript</strong> <br>
-    - 📫 How to reach me <strong>guvono4@gmail.com</strong> <br> 
-    - ⚡ Fun fact <strong>I love football, games, music, coffee, cars and beer.</strong> <br>
+    - 🌱 I’m currently deepening my knowledge in
+    <strong>Python, TypeScript and Front-End frameworks</strong> <br />
+    - 💬 Ask me about <strong>React, JavaScript</strong> <br />
+    - 📫 How to reach me <strong>guvono4@gmail.com</strong> <br />
+    - ⚡ Fun fact
+    <strong>I love football, games, music, coffee, cars and beer.</strong>
+    <br />
 </div>
+
+---------
+
+<p style="text-align: center">
+    All the projects you'll see here are still in <strong>development</strong>.
+    Actually, to me, a project never really ends;
+    <strong>there's always something to improve</strong>. Therefore, in each of
+    them, I've included information in the readme file about their
+    <strong>potential future</strong> if they were to be continued.
+</p>
+
+---------
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -205,17 +220,13 @@
 ---------
 
 <img
-align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=gutvono&show_icons=true&locale=en&layout=compact"
-alt="gutvono"
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=gutvono&show_icons=true&locale=en&layout=compact"
+    alt="gutvono"
 />
 
 <img
-align="right"
-src="https://github-readme-stats.vercel.app/api?username=gutvono&show_icons=true&locale=en"
-alt="gutvono"
+    align="right"
+    src="https://github-readme-stats.vercel.app/api?username=gutvono&show_icons=true&locale=en"
+    alt="gutvono"
 />
-
----------
-
-All the projects you'll see here are still in development. Actually, to me, a project never really ends; there's always something to improve.
