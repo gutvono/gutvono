@@ -10,7 +10,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://linkedin.com/in/gustavo vono" target="blank"
+    <a href="https://www.linkedin.com/in/gustavo-vono-618921229/" target="blank"
         ><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
