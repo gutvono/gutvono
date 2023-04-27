@@ -226,14 +226,6 @@
 
 <br />
 
-<img
-    align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=gutvono&show_icons=true&theme=dark&locale=en&layout=compact"
-    alt="gutvono"
-/>
-
-<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=gutvono&show_icons=true&theme=dark&locale=en"
-    alt="gutvono"
-/>
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutvono&layout=compact&theme=dark" />
+</a>
