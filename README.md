@@ -21,7 +21,7 @@
 
 <h3 align="center">Contacts</h3>
 <p align="center">
-    <a href="https://www.linkedin.com/in/gustavo-vono-618921229/" target="blank"
+    <a href="https://www.linkedin.com/in/gustavono/" target="blank"
         ><img
             align="center"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
