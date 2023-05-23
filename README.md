@@ -226,6 +226,4 @@
 
 <br />
 
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutvono&layout=compact&theme=dark" />
-</a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gutvono&layout=compact&theme=dark&hide=css"/> </a>
