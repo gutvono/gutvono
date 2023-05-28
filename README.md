@@ -7,8 +7,7 @@
 <br />
 
 <p align="center">
-    - 🏠 I'm 26 years old and I live in Jaú, a city located in the countryside
-    of São Paulo state, Brazil. <br />
+    - 🏠 I'm 26 years old and I live in Jaú, a city town in the state of São Paulo, Brazil. <br />
     - 🎓 I <strong>graduated in Physical Education</strong>, and yes,
     I know it doesn't have much to do with programming and technology, but I
     found myself interested in it and now <strong>I am seeking a job in this field</strong>. <br />
