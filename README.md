@@ -12,7 +12,7 @@
     I know it doesn't have much to do with programming and technology, but I
     found myself interested in it and now <strong>I am seeking a job in this field</strong>. <br />
     - 🌱 I’m currently deepening my knowledge in
-    <strong>Python, TypeScript and Front-End frameworks</strong>. <br />
+    <strong>Python and TypeScript</strong>. <br />
     - ⚡ I love football, games, music, films, series, coffee, cars and beer.
 </p>
 
