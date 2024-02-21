@@ -34,9 +34,8 @@
 
 <br />
 
-<h3 align="center">Portfolio:</h3>
-<a href="https://www.gvono.tech" target="blank">
-    Click-me   
+<a href="https://www.gvono.tech" target="blank" align="center">
+    <h3>Portfolio</h3>
 </a>
 
 <br />
