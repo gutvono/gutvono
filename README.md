@@ -35,7 +35,7 @@
 <br />
 
 <a href="https://www.gvono.tech" target="blank" align="center">
-    Portfolio
+    <p align="center">Portfolio</p>
 </a>
 
 <br />
