@@ -8,12 +8,10 @@
 
 <p align="center">
     - 🏠 I'm 26 years old and I live in Jaú, a city town in the state of São Paulo, Brazil. <br />
-    - 🎓 I <strong>graduated in Physical Education</strong>, and yes,
-    I know it doesn't have much to do with programming and technology, but I
-    found myself interested in it and now <strong>I am seeking a job in this field</strong>. <br />
+    - 🎓 I'm studying <strong>Information Technology Management at FATEC-JAHU</strong>. Meanwhile, I freelance for small businesses. <br />
     - 🌱 I’m currently deepening my knowledge in
     <strong>Java SpringBoot and Angular</strong>. <br />
-    - ⚡ I love football, games, music, films, series, coffee, cars and beer.
+    - ⚡ I love football, games, music, films, series, coffee, cars, beer, and ofcourse, programming!
 </p>
 
 <br />
@@ -33,6 +31,12 @@
             alt="gustavo vono"
     /></a>
 </p>
+
+<br />
+
+<a href="https://www.gvono.tech" target="blank">
+    <h3 align="center">Portfolio:</h3>
+</a>
 
 <br />
 
