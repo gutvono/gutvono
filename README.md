@@ -7,7 +7,7 @@
 <br />
 
 <p align="center">
-    - 🏠 I'm 26 years old and I live in Jaú, a city town in the state of São Paulo, Brazil. <br />
+    - 🏠 I'm 27 years old and I live in Jaú, a city town in the state of São Paulo, Brazil. <br />
     - 🎓 I'm studying <strong>Information Technology Management at FATEC-JAHU</strong>. Meanwhile, I freelance for small businesses. <br />
     - 🌱 I’m currently deepening my knowledge in
     <strong>Java SpringBoot and Angular</strong>. <br />
@@ -229,4 +229,6 @@
 
 <br />
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gutvono&layout=compact&theme=dark&hide=css"/> </a>
+<a href="" align="center">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gutvono&layout=compact&theme=dark&hide=css"/>
+</a>
