@@ -8,7 +8,7 @@
 
 <p align="center">
     - 🏠 I'm 27 years old and I live in Jaú, a city town in the state of São Paulo, Brazil. <br />
-    - 🎓 I'm studying <strong>Information Technology Management at FATEC-JAHU</strong>. Meanwhile, I freelance for small businesses. <br />
+    - 🎓 I'm studying <strong>Information Technology Management at FATEC-JAHU</strong>.<br />
     - 🌱 I’m currently deepening my knowledge in
     <strong>Java SpringBoot and Angular</strong>. <br />
     - ⚡ I love football, games, music, films, series, coffee, cars, beer, and ofcourse, programming!
