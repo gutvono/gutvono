@@ -34,7 +34,7 @@
 
 <br />
 
-<a href="https://www.gvono.tech" target="blank" align="center">
+<a href="https://gvonodev.vercel.app/" target="blank" align="center">
     <p align="center">Portfolio</p>
 </a>
 
